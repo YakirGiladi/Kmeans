@@ -1,1 +1,2 @@
-# Kmeans
+# Kmeans Project
+OMP & CUDA
